@@ -1,0 +1,33 @@
+body{
+	 background-image: url("BGM Image.jpeg");
+	  background-repeat: no-repeat;
+	  background-position: center; 
+	   background-attachment: fixed;
+	   background-size: 100%; 
+	   margin: 0%;
+
+}
+
+
+button {
+	margin-left: 40%;
+	margin-top: 25%;
+
+	
+	
+	 text-shadow: 1px 1px 1px #000, 
+               3px 3px 5px black;
+     font-family: cursive;
+     border: 50px;
+     width:200px;
+     height: 60px;
+     background-size: 100%;
+
+
+}
+
+
+
+
+
+
